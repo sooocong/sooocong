@@ -25,11 +25,12 @@
 * <sub>SQLD (2025.09)</sub>
 * <sub>OPIc IH (2024.07)</sub>
 
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooocong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/sooocong"
-  width="340"
-  height="170"
-/>
-</a>
+<br />
+<p align="left">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooocong&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/sooocong" width="340" height="170" />
+  </a>
+  <a href="https://solved.ac/subin3620">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=subin3620" />
+  </a>
+</p>
