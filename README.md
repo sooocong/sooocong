@@ -31,6 +31,6 @@
     <img src="https://render.gitanimals.org/farms/sooocong" width="340" height="170" />
   </a>
   <a href="https://solved.ac/subin3620">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=subin3620" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3620" />
   </a>
 </p>
