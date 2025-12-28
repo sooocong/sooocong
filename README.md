@@ -7,6 +7,18 @@
 * <sub>IT 연합 사이드 프로젝트 동아리 'UMC' 5기 - web (2023.09 ~ 2024.02)</sub>
 * <sub>삼성 드림클래스 대학생 멘토 (2022.06 ~ 2024.02)</sub>
 
+#### 🎀 Projects ˖✧
+
+* <sub>[[따뜻한 봉사, 따봉]](https://github.com/OnggiDongi) 시니어를 위한 봉사 연계 플랫폼 기획 및 디자인 및 FE 개발 (2025.08 ~ 2025.09)</sub>
+* <sub>[[군인을 위한 마음 하나로 올림, 하나올림]](https://github.com/internet-letter-keeper) 군인을 위한 통합 금융 플랫폼 기획 및 디자인 및 FE 개발 (2025.06 ~ 2025.07)</sub>
+* <sub>[[더위피해 9988]](https://github.com/kauProjectX/dwph9988-client) 고령자 온열 질환 예방 플랫폼 기획 및 디자인 및 FE 개발 (2024.08 ~ 2024.12)</sub>
+* <sub>[[Aerochat]](https://github.com/Fasoo-LLM-Chat-UI-UX) 기업용 LLM Chat 플랫폼 기획 및 FE 개발 (2024.08 ~ 2024.12)</sub>
+* <sub>[훗타운] 한진 아이디어 허브 공모전 기획 및 디자인 (2024.03 ~ 2024.05)</sub>
+* <sub>[[공작소]](https://github.com/Gongjakso/Gongjakso_web) 모두를 위한 팀빌딩 서비스 FE 개발 (2024.01 ~ 2025.04)</sub>
+* <sub>[수캐너] 우리만의 수하물 스캐너 플랫폼 기획 및 디자인 (2023.11 ~ 2023.12)</sub>
+* <sub>[[Question & Job, Qj]](https://github.com/kau-qj/realfrontend) 대학교 강의 추천 플랫폼 기획 및 디자인 및 FE 개발 (2022.11 ~ 2024.01)</sub>
+
+
 #### 🏆 Awards ˖✧
 
 * <sub>디지털 사회혁신 서비스 개발 아이디어 공모전 금상 (2024.12)</sub>
