@@ -1,3 +1,22 @@
+<div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Hi%2C+I'm+Soobin!)](https://git.io/typing-svg)
+
+서비스 기획부터 UI 설계, 프론트엔드 개발까지 직접 연결하는  
+**기획 중심 프론트엔드 개발자**입니다.  
+
+사용자 문제를 구조화하고,  
+웹·모바일에서 실제로 작동하는 서비스로 구현합니다.
+
+</div>
+
+<br/>
+
+사용자 문제를 정의하고,  
+웹·모바일 환경에서 직접 구현하며 더 나은 서비스 구조를 설계해왔습니다.
+
+<br/>
+
 #### 🛫 Experience ˖✧
 
 * <sub>한국항공대학교 소프트웨어학과 졸업 (2020.03 ~ 2025.02)</sub>
@@ -38,12 +57,37 @@
 * <sub>SQLD (2025.09)</sub>
 * <sub>OPIc IH (2024.07)</sub>
 
-<br />
+#### 🥞 Stack ˖✧
 <p align="left">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sooocong&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/sooocong" width="340" height="170" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+</p>
+
+<br />
+
+<p align="left">
+  <img src="https://render.gitanimals.org/farms/sooocong" />
   </a>
-  <a href="https://solved.ac/subin3620">
+  <!-- <a href="https://solved.ac/subin3620">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3620" />
-  </a>
+  </a> -->
 </p>
