@@ -1,21 +1,17 @@
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Hi%2C+I'm+Soobin!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=198865&width=600&lines=Hi%2C+I'm+Choi+Soobin!+%E0%A9%AB%CB%B6-+%EF%BB%8C+-%CB%B6%E0%A9%AB%E2%8C%92%29%E1%A6%B1)](https://git.io/typing-svg)
 
 서비스 기획부터 UI 설계, 프론트엔드 개발까지 직접 연결하는  
-**기획 중심 프론트엔드 개발자**입니다.  
+**기획 중심 프론트엔드 개발자**입니다.
+
+<br/>
 
 사용자 문제를 구조화하고,  
-웹·모바일에서 실제로 작동하는 서비스로 구현합니다.
+웹·모바일에서 실제로 작동하는 서비스로 구현하며  
+더 나은 서비스 구조를 설계합니다.
 
 </div>
-
-<br/>
-
-사용자 문제를 정의하고,  
-웹·모바일 환경에서 직접 구현하며 더 나은 서비스 구조를 설계해왔습니다.
-
-<br/>
 
 #### 🛫 Experience ˖✧
 
