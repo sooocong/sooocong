@@ -55,7 +55,7 @@
 * <sub>**[훗타운]** 한진 아이디어 허브 공모전 (기획/디자인) `2024.03 - 2024.05`</sub>
 * <sub>**[[공작소]](https://github.com/Gongjakso/Gongjakso_web)** 모두를 위한 팀빌딩 서비스 (FE) `2024.01 - 2025.04`</sub>
 * <sub>**[수캐너]** 우리만의 수하물 스캐너 플랫폼 (기획/디자인) `2023.11 - 2023.12`</sub>
-* <sub>**[[Question & Job, Qj]](https://github.com/kau-qj/realfrontend)** 대학교 강의 추천 플랫폼 (기획/디자인/FE) `2022.11 - 2024.01`</sub>
+* <sub>**[[Question & Job, Qj]](https://github.com/kau-qj/realfrontend)** 대학교 강의 추천 플랫폼 (기획/디자인/FE) `2023.08 - 2024.01`</sub>
 
 #### 🏆 Awards ˖✧
 * <sub>**디지털 사회혁신 서비스 개발 아이디어 공모전 금상** `2024.12`</sub>
