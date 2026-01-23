@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=93CBFA&center=true&vCenter=true&width=600&lines=Hi+I'm+Soobin+!+%F0%96%A2%94+%F0%96%A1%BA+%E2%9D%85+.+*)](https://git.io/typing-svg)
 
-> **사용자의 문제를 정의하고, 기술로 실현 가능한 최적의 경험을 설계하는**
-> **프로덕트 디자이너 최수빈입니다.** ☁️
+> **서비스 기획부터 UI 설계, 프론트엔드 개발까지 직접 연결하는**
+> **기획 중심 프론트엔드 개발자 최수빈입니다.** ☁️
 
 <br />
 
