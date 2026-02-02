@@ -72,19 +72,14 @@
 <br />
 
 <p align="center">
-  <a href="https://render.gitanimals.org/farms/sooocong">
-    <img
-      src="https://render.gitanimals.org/farms/sooocong"
-      height="220"
-      style="height: 220px; "max-width: 100%; margin: 8px;"
-    />
-  </a>
-
-  <a href="https://solved.ac/subin3620">
-    <img
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3620"
-      height="220"
-      style="height: 220px; "max-width: 100%; margin: 8px;"
-    />
-  </a>
+  <img
+    src="https://render.gitanimals.org/farms/sooocong"
+    width="48%"
+    style="margin: 6px;"
+  />
+  <img
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3620"
+    width="38%"
+    style="margin: 6px;"
+  />
 </p>
