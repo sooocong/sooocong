@@ -75,18 +75,16 @@
   <a href="https://render.gitanimals.org/farms/sooocong">
     <img
       src="https://render.gitanimals.org/farms/sooocong"
-      height="200"
-      style="height: 210px; max-width: 100%; margin: 8px;"
-      alt="GitAnimals"
+      height="220"
+      style="height: 220px; "max-width: 100%; margin: 8px;"
     />
   </a>
 
   <a href="https://solved.ac/subin3620">
     <img
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3620"
-      height="200"
-      style="height: 210px; max-width: 100%; margin: 8px;"
-      alt="Solved.ac"
+      height="220"
+      style="height: 220px; "max-width: 100%; margin: 8px;"
     />
   </a>
 </p>
