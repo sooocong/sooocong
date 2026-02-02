@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/1129fa9d-bc1a-4423-960f-2a676b671654" width="75%" />
+<img src="https://github.com/user-attachments/assets/1129fa9d-bc1a-4423-960f-2a676b671654" width="85%" />
 
 <br />
 
@@ -72,9 +72,21 @@
 <br />
 
 <p align="center">
-  <img src="https://render.gitanimals.org/farms/sooocong" width="75%" />
+  <a href="https://render.gitanimals.org/farms/sooocong">
+    <img
+      src="https://render.gitanimals.org/farms/sooocong"
+      height="200"
+      style="height: 210px; max-width: 100%; margin: 8px;"
+      alt="GitAnimals"
+    />
   </a>
-  <!-- <a href="https://solved.ac/subin3620">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3620" />
-  </a> -->
+
+  <a href="https://solved.ac/subin3620">
+    <img
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=subin3620"
+      height="200"
+      style="height: 210px; max-width: 100%; margin: 8px;"
+      alt="Solved.ac"
+    />
+  </a>
 </p>
